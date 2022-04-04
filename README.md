@@ -43,3 +43,30 @@
 
 
 # 7 "https://demo.guru99.com/";  // 20 days access . login and get crednetials. change uid and pwd in ALL FILES
+
+
+
+
+Command line Execution
+        http://total-qa.com/passing-command-line-arguments-selenium-maven-testng/
+        mvn clean test -DsuiteXmlFile=testng.xml 
+        
+        java -cp ./src/lib/*:./target/test-classes org.testng.TestNG testng.xml
+
+https://www.toolsqa.com/selenium-webdriver/page-factory-in-selenium/
+
+ Headless  
+        /SeleniumMavenTestNG/src/test/java/projectcomputerdatabase/_6_ChromeDriverHeadless.java
+        Chrome options /projectcomputerdatabase/_7_ChromeDriverOptions.java
+        https://chromedriver.chromium.org/capabilities
+        
+AutoIt   - exercise 
+Broken links - interview question
+
+log 4 j  
+TestNG Reporting
+DB connections
+Selenium Grid
+
+
+
